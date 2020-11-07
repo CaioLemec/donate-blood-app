@@ -26,6 +26,8 @@
 
 Web application created in [@Rocketseat's](https://github.com/Rocketseat) third edition MarathonDev, an online event that occurred on February 17th to 21th, 2020.
 
+<br>
+
 ## 📀 Technology
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
