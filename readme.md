@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#technology's">Technology's</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Technology's">Technology's</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-License">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-DataBase Instalation Required">DataBase</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Start Dev Environment for VSCode">Running Environment</a>
+  <a href="#-DataBase">DataBase</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-VSCode">Running Environment</a>
 </p>
 
 <p align="center">
@@ -46,7 +46,9 @@ This project is licensed under the MIT [LICENSE](LICENSE.md).
 
 <br>
 
-## 📂 DataBase Instalation Required:
+## 📂 DataBase
+
+❗ Instalation Required ❗ 
 
 1. Download PostgreeSQL:
 ```bash 
@@ -72,11 +74,13 @@ port: 3300,         //port
 database: 'doe'     //Data Base name.
 })
 ```
-## 💎 Start Dev Environment for VSCode
+## 💎 VSCode
+
+Start Dev Environment for <strong>VSCode</strong>
 
 1. Clone the repository: 
 ```bash 
-git@github.com:CaioLemec/TROCARAQUI.git
+git@github.com:CaioLemec/donate-blood-app.git
 ```
 2. Install node: 
 ```bash
@@ -84,7 +88,7 @@ git@github.com:CaioLemec/TROCARAQUI.git
  ```
 3. Open project folder in VSCode:
 ```bash
- cd ../TROCARAQUI
+ cd ../donate-blood-app.git -> then -> code .
  ```
 4. Install dependencies by using command:
 ```bash
